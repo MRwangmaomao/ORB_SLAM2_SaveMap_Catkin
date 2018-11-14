@@ -20,22 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4545a87-9bd0-4be7-b8bf-8fca814380f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Examples/RGB-D/TUM1.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/RGB-D/TUM1.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/RGB-D/TUM3.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/RGB-D/TUM3.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/RGB-D/rgbd_tum.cc" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/RGB-D/rgbd_tum.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/Asus.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/manifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/src/AR/ViewerAR.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/src/AR/ViewerAR.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/src/AR/ros_mono_ar.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/src/ros_mono.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/src/ros_rgbd.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/src/ros_stereo.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/src/ros_zed.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_ros.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_ros.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tracking.cc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tracking.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Viewer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Viewer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/KinectV2.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/KinectV2.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,28 +90,28 @@
           <entry key="cc" value="2" />
           <entry key="cmake" value="1" />
           <entry key="txt" value="2" />
-          <entry key="yaml" value="3" />
+          <entry key="yaml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CMakeLists.txt" value="3" />
           <entry key="ObjectiveC" value="2" />
-          <entry key="YAML" value="3" />
+          <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cc" value="12" />
           <entry key="txt" value="96" />
-          <entry key="yaml" value="60" />
+          <entry key="yaml" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="96" />
           <entry key="ObjectiveC" value="12" />
-          <entry key="YAML" value="60" />
+          <entry key="YAML" value="62" />
         </counts>
       </usages-collector>
     </session>
@@ -142,20 +127,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/KinectV2.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examples/RGB-D/TUM3.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/KinectV2.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -266,9 +251,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="529" />
-    <option name="y" value="82" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="370" />
+    <option name="y" value="544" />
     <option name="width" value="1392" />
     <option name="height" value="742" />
   </component>
@@ -443,12 +428,12 @@
       <workItem from="1541744816434" duration="7000" />
       <workItem from="1542127774672" duration="14000" />
       <workItem from="1542165838481" duration="713000" />
-      <workItem from="1542166665310" duration="5796000" />
+      <workItem from="1542166665310" duration="6265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25821000" />
+    <option name="totallyTimeSpent" value="26290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,10 +445,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="370" y="544" width="1392" height="742" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26759002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35991058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -700,13 +685,6 @@
         <state relative-caret-position="-461" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/System.cc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
@@ -731,13 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/RGB-D/TUM3.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/rgbd_test/src/ros_rgbd.cc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -752,10 +723,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/RGB-D/TUM3.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Examples/ROS/ORB_SLAM2_Map/src/KinectV2.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
