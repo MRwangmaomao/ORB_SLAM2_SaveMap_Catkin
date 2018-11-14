@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wpr/code/ORB_SLAM2_Map_Catkin/Examples/ROS/ORB_SLAM2_Map/devel/setup.sh
